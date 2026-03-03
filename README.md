@@ -26,8 +26,9 @@ Master the materials above and then work on an extension of this framework of yo
 
 The idea is to learn these methods, work on a problem of your choosing, and report back to the group about the results of our analysis.
 
-## Getting started.
+## Getting started
 - [Install R and R studio](https://posit.co/download/rstudio-desktop/)
 - [Install macpan2](https://canmod.github.io/macpan2/#installation)
-- Why macpan2 and compartmental modelling? [learn why from this video](https://drive.google.com/drive/folders/1NEQf2sy6QLxMiiWBN5Yn9U7wiPMs1jiS) 
+- Why macpan2 and compartmental modelling? [learn why from this video](https://drive.google.com/drive/folders/1NEQf2sy6QLxMiiWBN5Yn9U7wiPMs1jiS)
+- Start working through the [past workshops material](https://canmod.github.io/macpan-workshop/)) 
 
