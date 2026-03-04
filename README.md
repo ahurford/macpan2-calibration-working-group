@@ -32,3 +32,6 @@ The idea is to learn these methods, work on a problem of your choosing, and repo
 - Why macpan2 and compartmental modelling? [learn why from this video](https://drive.google.com/drive/folders/1NEQf2sy6QLxMiiWBN5Yn9U7wiPMs1jiS)
 - Start working through the [past workshops material](https://canmod.github.io/macpan-workshop/) 
 
+## Data sources
+- Use data related to your own project.
+- Use data from [CANDID](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0005550). Please cite the publication (Earn et al. 2025) for any work arising from using this data set. The data are accessed from this [repository](https://github.com/canmod/iidda/tree/main).
