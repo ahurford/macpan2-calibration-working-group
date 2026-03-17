@@ -18,7 +18,7 @@ Please email ahurford@mun.ca if you would like to participate remotely
 - [Past macpan2 workshops](https://canmod.github.io/macpan-workshop/)
 - [macpan2 documentation](https://canmod.github.io/macpan2/)
 - [Scarlet fever](https://github.com/canmod/macpan2/blob/main/vignettes/real_data.Rmd)
-- [Calibration using Piecewise, Radial Basis Functions, and Natural Splines] (https://github.com/abdouf/macpan2_calibration_lab/tree/main)
+- [Calibration using Piecewise, Radial Basis Functions, and Natural Splines](https://github.com/abdouf/macpan2_calibration_lab/tree/main)
 
 ## Goal
 Master the materials above and then work on an extension of this framework of your choosing such as:
